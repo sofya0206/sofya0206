@@ -7,7 +7,7 @@ I'm 17 and I build AI products that real businesses pay for. I'm applying for a 
 | | | |
 | --- | --- | --- |
 | **[Vruchay](https://github.com/sofya0206/vruchay-showcase)** · [vruchay.ru](https://vruchay.ru) | B2B SaaS that issues named certificates at scale, each with a QR verification page. In production with paid plans. | **Lead developer.** 420+ commits in 2 months, 176 test files, security scans in CI |
-| **[Agora](https://github.com/sofya0206/agora-showcase)** · [demo](https://agora-demo-cyan.vercel.app) | B2B packaging marketplace. An AI assistant picks real suppliers from the catalogue and never invents them. | **Co-founder, frontend.** Accelerators: *Ya v Dele*, *Innovators of Moscow* |
+| **[Agora](https://github.com/sofya0206/agora-showcase)** · [demo](https://agora-demo-cyan.vercel.app) · [code](https://github.com/sofya0206/agora-demo) | B2B packaging marketplace. An AI assistant picks real suppliers from the catalogue and never invents them. | **Co-founder, frontend.** Accelerators: *Ya v Dele*, *Innovators of Moscow* |
 | **[Chess](https://github.com/sofya0206/Chess-C)** · [play](https://chess-c-rho.vercel.app) | Minimal chess app: Stockfish at 4 levels, an LLM coach, interactive lessons. | **Solo.** Built in 3 days |
 | **[Blog](https://github.com/sofya0206/blog-obs)** · [read](https://sofya0206.github.io/blog-obs/) | My Obsidian vault published as a site: notes, projects and research linked into one network. | **Solo.** A portfolio of how I think |
 
