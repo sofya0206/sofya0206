@@ -21,7 +21,7 @@ I'm 17 and I build AI products that real businesses pay for. I'm applying for a 
 
 - Independent research paper: *Psychometrics in Marketing*, a logistic-regression model of how emotional attachment turns into profit
 - Founded a school debate club (public debates for 230+ people)
-- Three-time Russian national champion in martial arts (MMA, Brazilian jiu-jitsu)
+- Three-time Russian national champion in martial arts 
 - Finalist, National Financial Literacy Olympiad
 
 ### Stack
